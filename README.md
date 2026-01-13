@@ -2,7 +2,7 @@ Bienvenido a nuestro proyecto de eCommerce, llamado SportFit, especializado en r
  
  los integrates del grupo somos tres, con un mismo objectivo en comun crear un eCommerce con un estilo unico y nunca visto. 
  - Paola Noeli Moriconi.
-- Leanro Boxler
+- Leandro Boxler
 -David FLores
 
 los invitos a recorrer este trayecto con nosotros.
